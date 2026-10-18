@@ -2,13 +2,13 @@
 
 I build smart-home systems, local AI tools, and practical automations, both at Syncopia and for my own projects.
 
-My work spans Home Assistant integrations, Telegram bots, web scraping, monitoring, and API proxying. I also developed **Богатырь (Bogatyr)**, a bot for VK.
+My work spans Home Assistant integrations, Telegram bots, web scraping, monitoring, and API proxying.
 
-[Personal Telegram](https://t.me/techno_boggart) · [Syncopia Telegram](https://t.me/syncopia_ge) · [Syncopia YouTube](https://www.youtube.com/@syncopia_ge)
+[Telegram](https://t.me/techno_boggart) · [Syncopia Telegram](https://t.me/syncopia_ge) · [Syncopia YouTube](https://www.youtube.com/@syncopia_ge)
 
-**Discord:** Donkarization
+**Discord:** Dankarization
 
-## Featured projects
+## Small Personal Open Projects
 
 ### [Inference Broker](https://github.com/dankarization/ollama-inference-broker)
 A local queue and scheduler for a shared GPU executor, currently focused on Ollama workloads. Includes durable jobs, model-aware scheduling, Wake-on-LAN, and an operational dashboard.
@@ -30,7 +30,7 @@ A self-hosted HTML web dashboard for AI usage, provider quotas, model breakdowns
 
 Alongside my own projects, I contribute fixes and device support upstream:
 
-- [Home Assistant](https://github.com/home-assistant/core/pull/170563) — tilt controls for Overkiz UpDownSheerScreen.
-- [Zigbee2MQTT](https://github.com/Koenkk/zigbee-herdsman-converters/pull/12193) — support for a Tuya four-gang switch.
-- [OpenClaw](https://github.com/openclaw/openclaw/pull/94118) — a fix for Telegram rich local Markdown links.
-- [SmartIR](https://github.com/smartHomeHub/SmartIR/pull/1556) — submitted improvements to IR remote codes and fan controls, including EGLO fans and Tadiran climate devices. Pull requests are open.
+- [Home Assistant](https://github.com/home-assistant/core/) — Modbus, Light changes, devices support.
+- [Zigbee2MQTT](https://github.com/Koenkk/zigbee-herdsman-converters/) — support for a different new devices.
+- [OpenClaw](https://github.com/openclaw/openclaw/) — different fixes and features.
+- [SmartIR](https://github.com/smartHomeHub/SmartIR) — dozen IR remote codes and fan controls.

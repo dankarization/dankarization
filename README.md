@@ -38,3 +38,6 @@ Alongside my own projects, I contribute fixes and device support upstream:
 - [Zigbee2MQTT](https://github.com/Koenkk/zigbee-herdsman-converters/) — support for a different new devices.
 - [OpenClaw](https://github.com/openclaw/openclaw/) — different fixes and features.
 - [SmartIR](https://github.com/smartHomeHub/SmartIR) — dozen IR remote codes and fan controls.
+- [tuya-local](https://github.com/make-all/tuya-local) & [local tuya](https://github.com/rospogrigio/localtuya)
+- [HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes)
+- [hass-yeelightbt](https://github.com/hcoohb/hass-yeelightbt) — candela stable work through HA Bluetooth Proxies

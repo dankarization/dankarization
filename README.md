@@ -8,25 +8,19 @@ My work spans Home Assistant integrations, Telegram bots, web scraping, monitori
 
 ## Not Open Source But Free Usage projects
 
-### [Daniil Media Loader bot](https://t.me/daniilmedialoaderbot)
+- [Daniil Media Loader bot](https://t.me/daniilmedialoaderbot)
 Downloads media from YouTube, Instagram, TikTok, X, Spotify, Yandex Music and more.
-
-### [TRE Monitor](https://t.me/tre_ge_bot)
-Tracks TRE tickets and sends alerts for selected routes.
+- [TRE Monitor](https://t.me/tre_ge_bot)
+Tracks Georgian Railways tickets and sends alerts for selected routes.
 
 ## Small Personal Open Source Projects
 
-### [Inference Broker](https://github.com/dankarization/ollama-inference-broker)
-A local queue and scheduler for a shared GPU executor, currently focused on Ollama workloads. Includes durable jobs, model-aware scheduling, Wake-on-LAN, and an operational dashboard.
-
-### [OpenClaw Telegram Bot API Proxy](https://github.com/dankarization/openclaw-telegram-bot-api-proxy)
+- [Inference Broker](https://github.com/dankarization/ollama-inference-broker) — 
+Queue and scheduler for a shared GPU executor, currently focused on Ollama workloads. Includes durable jobs, model-aware scheduling, Wake-on-LAN, and an operational dashboard.
+- [OpenClaw Telegram Bot API Proxy](https://github.com/dankarization/openclaw-telegram-bot-api-proxy) — 
 A local-first bridge between OpenClaw and the Telegram Bot API. Handles large files, coordinates polling, and applies explicit rules for cloud fallback.
-
-### [AI Usage Dashboard](https://github.com/dankarization/ai-usage-dashboard-local)
+- [AI Usage Dashboard](https://github.com/dankarization/ai-usage-dashboard-local) — 
 A self-hosted HTML web dashboard for AI usage, provider quotas, model breakdowns, and estimated costs. Built on [grapeot/ai_usage_dashboard](https://github.com/grapeot/ai_usage_dashboard), with a FastAPI web UI and additional integrations.
-
-## Smaller tools
-
 - [QNAP Plex Watchdog](https://github.com/dankarization/qnap-plex-watchdog) — health checks and guarded recovery for a QNAP Plex QPKG installation.
 - [ASG Lift Code Fetcher](https://github.com/dankarization/asg-code-fetcher) — Telegram bot for daily lift-code notifications and on-demand access.
 

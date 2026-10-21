@@ -21,9 +21,9 @@ Queue and scheduler for a shared GPU executor, currently focused on Ollama workl
 A local-first bridge between OpenClaw and the Telegram Bot API. Handles large files, coordinates polling, and applies explicit rules for cloud fallback.
 - [AI Usage Dashboard](https://github.com/dankarization/ai-usage-dashboard-local) — 
 A self-hosted HTML web dashboard for AI usage, provider quotas, model breakdowns, and estimated costs. Built on [grapeot/ai_usage_dashboard](https://github.com/grapeot/ai_usage_dashboard), with a FastAPI web UI and additional integrations.
+- [Agent Mail Router](https://github.com/dankarization/agent-mail-router) — Durable, topic-aware mail routing for Python and OpenClaw, with deferred content reading and guarded delivery.
 - [QNAP Plex Watchdog](https://github.com/dankarization/qnap-plex-watchdog) — health checks and guarded recovery for a QNAP Plex QPKG installation.
 - [ASG Lift Code Fetcher](https://github.com/dankarization/asg-code-fetcher) — Telegram bot for daily lift-code notifications and on-demand access.
-- [Agent Mail Router](https://github.com/dankarization/agent-mail-router) — Durable, topic-aware mail routing for Python and OpenClaw, with deferred content reading and guarded delivery.
 
 ## Open-source contributions
 
@@ -36,3 +36,4 @@ Alongside my own projects, I contribute fixes and device support upstream:
 - [tuya-local](https://github.com/make-all/tuya-local) & [local tuya](https://github.com/rospogrigio/localtuya)
 - [HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes)
 - [hass-yeelightbt](https://github.com/hcoohb/hass-yeelightbt) — candela stable work through HA Bluetooth Proxies
+- [OmniRoute](https://github.com/cheaper-inference/OmniRoute)

@@ -6,6 +6,19 @@ My work spans Home Assistant integrations, Telegram bots, web scraping, monitori
 
 [Telegram](https://t.me/techno_boggart) · [Syncopia Telegram](https://t.me/syncopia_ge) · [Syncopia YouTube](https://www.youtube.com/@syncopia_ge)
 
+## Tech Stack
+
+**Languages & backend:** Python · JavaScript / Node.js · Shell / Bash · FastAPI · SQLite · PostgreSQL  
+**AI & automation:** Ollama · OpenClaw · Whisper · Telegram Bot API · Node-RED  
+**Smart home:** Home Assistant · Zigbee2MQTT · MQTT · Modbus · KNX  
+**Infrastructure:** Linux · Docker · Proxmox · GitHub Actions
+
+## Languages Across Projects
+
+![Programming languages across my projects](languages.svg)
+
+<sub>Automatically refreshed using [Metrics](https://github.com/lowlighter/metrics). Language percentages are based on bytes of code in my non-fork repositories, not lines I personally authored. Private repositories can be included in aggregate statistics without showing their names or source code.</sub>
+
 ## Not Open Source But Free Usage projects
 
 - [Daniil Media Loader bot](https://t.me/daniilmedialoaderbot)

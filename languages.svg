@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-label="Language statistics are not generated yet">
+  <rect x="1" y="1" width="718" height="178" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <text x="28" y="53" fill="#e6edf3" font-family="Arial, sans-serif" font-size="23" font-weight="bold">Languages across projects</text>
+  <text x="28" y="94" fill="#a5afbd" font-family="Arial, sans-serif" font-size="16">Automatic language statistics are not initialized yet.</text>
+  <text x="28" y="125" fill="#a5afbd" font-family="Arial, sans-serif" font-size="15">Add the METRICS_TOKEN Actions secret and run the workflow.</text>
+  <text x="28" y="155" fill="#82909c" font-family="Arial, sans-serif" font-size="13">Only aggregate language statistics will be published.</text>
+</svg>

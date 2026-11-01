@@ -15,7 +15,7 @@ Tracks Georgian Railways tickets and sends alerts for selected routes.
 
 ## Small Personal Open Source Projects
 
-- [Inference Broker](https://github.com/dankarization/ollama-inference-broker) — 
+- [Inference Broker](https://github.com/dankarization/inference-broker) — 
 Queue and scheduler for a shared GPU executor, currently focused on Ollama workloads. Includes durable jobs, model-aware scheduling, Wake-on-LAN, and an operational dashboard.
 - [OpenClaw Telegram Bot API Proxy](https://github.com/dankarization/openclaw-telegram-bot-api-proxy) — 
 A local-first bridge between OpenClaw and the Telegram Bot API. Handles large files, coordinates polling, and applies explicit rules for cloud fallback.

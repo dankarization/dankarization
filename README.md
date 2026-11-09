@@ -24,6 +24,7 @@ A self-hosted HTML web dashboard for AI usage, provider quotas, model breakdowns
 - [Agent Mail Router](https://github.com/dankarization/agent-mail-router) — Durable, topic-aware mail routing for Python and OpenClaw, with deferred content reading and guarded delivery.
 - [QNAP Plex Watchdog](https://github.com/dankarization/qnap-plex-watchdog) — health checks and guarded recovery for a QNAP Plex QPKG installation.
 - [ASG Lift Code Fetcher](https://github.com/dankarization/asg-code-fetcher) — Telegram bot for daily lift-code notifications and on-demand access.
+- [Canon G2010 Duplex](https://github.com/dankarization/canon-g2010-duplex) — Server-side colour and manual duplex printing for Canon G2010/G3010-class inkjets on Linux; print two-sided from any device with no client-side driver install.
 
 ## Open-source contributions
 
